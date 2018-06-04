@@ -1,0 +1,50 @@
+<html>
+  <head>
+    <title>Python Equation solver shown via Flask in the Browser </title>
+  </head>
+<BODY bgcolor="99FFCC">
+<center>
+<h2>
+<font color='blue'>Python One Variable Equation Solver</font> <br> 
+Copyright &copy; 2018 by Sergio Rojas <br> Physics Department  <br>
+            Universidad Sim&oacute;n
+Bol&iacute;var <br> Venezuela <br> All Rights Reserved.
+</h2>
+</center>
+    <form method="POST" action="">
+  <h2>
+      Enter the equation: <input type="text" name="theEquation">
+</h2>
+  <h2>
+      What would you like to do? <input type="text" name="numero">
+</h2>
+  <h2>
+      Enter the term: <input type="text" name="theTerm">
+</h2>
+  <h2>
+  Enter the variable name (if 5 is chosen): <input type="text" name="theVar">
+</h2>
+      <input type="submit" name="submit" value="Submit Values">
+    </form>
+      <blockquote>
+      <h2>The given equation was: {{oldEquation}} </h2>
+      <h2>You choose {{numero}}:  {{theTerm}}     </h2>
+      <h2>Resulting in: {{theEquation}}           </h2>
+      </blockquote>
+      <h2> In the field 
+            <font color='red'><em>What would you like to do</em></font>? 
+           enter (the number at the left): 
+      </h2>
+      <h2>
+      <blockquote>
+      <ol>
+      <li> to add a term to both sides of the equation.
+      <li> to subtract a term from both sides of the equation.
+      <li> to multiply both sides of the equation by a term.
+      <li> to divide both sides of the equation by a term.
+      <li> to show the solution of the equation (term is ignored).
+      </ol>
+      </blockquote>
+      </h2>
+  </body>
+</html>
