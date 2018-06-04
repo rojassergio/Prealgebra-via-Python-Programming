@@ -1,12 +1,12 @@
 <center>
-# Prealgebra via Python Programming
+ <h2>Prealgebra via Python Programming</h2>
 </center>
 
  <table style="width:100%">
   <tr>
      <td>
          <a href="https://www.researchgate.net/publication/325473565" target="_blank">
-      <img src="./img/portada.png" alt="" height="192" width="192" align="ABSMIDDLE" border="0">
+      <img src="./img/portada.png" alt="" height="192" width="692" align="ABSMIDDLE" border="0">
 </a>
      </td>
      <td>
