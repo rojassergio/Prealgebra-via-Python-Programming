@@ -1,5 +1,5 @@
 <center>
- <h2>Prealgebra via Python Programming</h2>
+ <h2><a href="https://www.researchgate.net/publication/325473565" target="_blank">Prealgebra via Python Programming</a></h2>
 </center>
 
  <table style="width:100%">
