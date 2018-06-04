@@ -1,0 +1,2 @@
+# Prealgebra-via-Python-Programming
+This book is distributed under the terms of the Creative Commons  Attribution-Non-Commercial 4.0 International License (CC BY 4.0)  [http://creativecommons.org/licenses/by-nc/4.0/), which permits any  noncommercial use, duplication, adaptation, distribution and  reproduction in any medium or format, as long as you give appropriate  credit to the original author and the source.
