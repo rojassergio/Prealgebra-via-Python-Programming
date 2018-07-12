@@ -55,3 +55,22 @@ reviewed, edited, and properly acknowledged by the maintainer of this site.
 **We are on Twitter**: <a href="https://www.researchgate.net/publication/325473565" target="_blank">Twitter</a>
 <BR CLEAR=ALL>
 
+# Resources on Teaching and Learning via Python
+
+> * [An&aacute;lisis Num&eacute;rico y C&oacute;mputo Cient&iacute;fico v&iacute;a el IPython Notebook](https://nbviewer.jupyter.org/github/rojassergio/Learning-Scipy/blob/master/Other_IPythonNotes/Numerical_Computing_via_IPython.ipynb)
+
+> * [DISCOVERING MATH WITH PYTHON](https://nbviewer.jupyter.org/github/4dsolutions/Python5/blob/master/Introduction.ipynb)
+
+> * [MARTIAN MATH](http://www.4dsolutions.net/satacad/martianmath/toc.html)
+
+> * [Awesome Python in Education](https://github.com/quobit/awesome-python-in-education)
+
+> * [Numerical Computing is Fun](https://github.com/mikkokotila/jupyter4kids)
+
+> * [Think Like a Computer Scientist: Interactive Edition](https://runestone.academy/runestone/static/thinkcspy/index.html)
+
+> * [Experiments in Python Pedagogy](https://github.com/4dsolutions/Python5)
+
+> * [Mailing list EDU-SIG: Python in Education](https://mail.python.org/pipermail/edu-sig/)
+
+> * [A Framework for K-12 Science Education](https://www.aps.org/publications/apsnews/201111/backpage.cfm)
