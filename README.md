@@ -74,3 +74,10 @@ reviewed, edited, and properly acknowledged by the maintainer of this site.
 > * [Mailing list EDU-SIG: Python in Education](https://mail.python.org/pipermail/edu-sig/)
 
 > * [A Framework for K-12 Science Education](https://www.aps.org/publications/apsnews/201111/backpage.cfm)
+
+# Python for Scientific Computation: Advanced Resources
+
+> * [Numerical and Scientific Computing with SciPy (Video)](https://www.packtpub.com/big-data-and-business-intelligence/numerical-and-scientific-computing-scipy-video)
+
+> * [Learning SciPy for Numerical and Scientific Computing - Second Edition](https://www.packtpub.com/big-data-and-business-intelligence/learning-scipy-numerical-and-scientific-computing-second-edition)
+**and its** [Companion web site](https://github.com/rojassergio/Learning-Scipy)
