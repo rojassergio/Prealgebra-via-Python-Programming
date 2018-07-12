@@ -80,5 +80,4 @@ reviewed, edited, and properly acknowledged by the maintainer of this site.
 > * [Numerical and Scientific Computing with SciPy (Video)](https://www.packtpub.com/big-data-and-business-intelligence/numerical-and-scientific-computing-scipy-video)
 
 > * [Learning SciPy for Numerical and Scientific Computing - Second Edition](https://www.packtpub.com/big-data-and-business-intelligence/learning-scipy-numerical-and-scientific-computing-second-edition)
-
-> > **and its** [Companion web site](https://github.com/rojassergio/Learning-Scipy)
+ <br/> **and its** [Companion web site](https://github.com/rojassergio/Learning-Scipy)
